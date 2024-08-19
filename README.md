@@ -6,23 +6,21 @@ To address high employee turnover and suboptimal performance, this project aimed
 
 **Steps Followed:**
 
-Step 1 : Data Integration: Combined multiple data sources for a unified HR metrics view.
+- Step 1 : Data Integration: Combined multiple data sources for a unified HR metrics view.
 
-Step 2 : Advanced Visualizations: Created various Power BI visualizations like bar charts, line graphs, and pie charts.
+- Step 2 : Advanced Visualizations: Created various Power BI visualizations like bar charts, line graphs, and pie charts.
 
-Step 3 : Interactive Dashboards: Designed with filters and drill-down capabilities for in-depth analysis.
+- Step 3 : Interactive Dashboards: Designed with filters and drill-down capabilities for in-depth analysis.
 
-Step 4 : DAX Functions: Applied advanced DAX functions for complex calculations.
+- Step 4 : DAX Functions: Applied advanced DAX functions for complex calculations.
 
-Step 5 : User-Centric Design: Focused on intuitive design for HR professionals.
+- Step 5 : User-Centric Design: Focused on intuitive design for HR professionals.
 
-Step 6 : Real-Time Insights: Enabled real-time data updates for timely decision-making.
+- Step 6 : Real-Time Insights: Enabled real-time data updates for timely decision-making.
 
-**Dashboard Design**
+**- Dashboard Design**
 
-![HR Analytics](https://github.com/user-attachments/assets/45180feb-75d0-428a-bb4b-0aeeda112bc0)
-
-
+![HR Analytics_page-0001](https://github.com/Sagarparkhe/HR-Analytics-Dashboard/assets/171353864/accbb817-b712-4368-a7cf-425c0360cef7)
 
 **Key Features:**
 
