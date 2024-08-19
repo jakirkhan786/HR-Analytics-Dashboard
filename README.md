@@ -20,6 +20,8 @@ Step 6 : Real-Time Insights: Enabled real-time data updates for timely decision-
 
 **Dashboard Design**
 
+![HR Analytics](https://github.com/user-attachments/assets/45180feb-75d0-428a-bb4b-0aeeda112bc0)
+
 
 
 **Key Features:**
